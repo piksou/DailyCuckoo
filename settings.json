@@ -1,0 +1,36 @@
+{
+  "bark_key": "YourBarkKey",
+  "bark_group": "DailyCuckoo",
+  "benchmark_index": "$ixic",
+  "benchmark_name": "NASDAQ",
+  "market_comments": [
+    {
+      "threshold": -2.0,
+      "comment": "💥 U.S. Economy Collapses! {benchmark_name}{percentage}"
+    },
+    {
+      "threshold": -1.0,
+      "comment": "📉 Market Turmoil! {benchmark_name}{percentage}"
+    },
+    {
+      "threshold": -0.5,
+      "comment": "🔻 Market Decline. {benchmark_name}{percentage}"
+    },
+    {
+      "threshold": 0.5,
+      "comment": "🔹 Market Stable. {benchmark_name}{percentage}"
+    },
+    {
+      "threshold": 1.0,
+      "comment": "🔼 Market Uptick. {benchmark_name}{percentage}"
+    },
+    {
+      "threshold": 2.0,
+      "comment": "📈 Strong Market Rally. {benchmark_name}{percentage}"
+    },
+    {
+      "threshold": Infinity,
+      "comment": "🚀 To the MOON! {benchmark_name}{percentage}"
+    }
+  ]
+}

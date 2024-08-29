@@ -1,7 +1,5 @@
 # DailyCuckoo
 
-![DailyCuckoo]
-
 A daily portfolio value notifier for long-term investors.
 
 DailyCuckoo is a script for long-term investors who still appreciate a daily reminder of their Net Liquidation Value (NLV). It uses the `sina` stock API for stock data and `bark` for notifications.
@@ -93,4 +91,5 @@ see `requirements.txt`
 ## DISCLAIMER
 
 The script is for educational or research purposes only.
+
 The information provided in this script is for informational purposes only. It should not be relied upon for making investment decisions.
